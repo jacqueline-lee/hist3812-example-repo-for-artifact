@@ -1,33 +1,25 @@
 # paradata
 
-This is the document that describes what you were doing, and what you learned through the process, especially with regard to the issues raised in the Core Philosophy readings (which you'd cite, naturally).
+For Module 1, we were required to find a historical object or place in Ottawa and create a digital, 3D model of it.   
 
-More info on 'paradata', from the HeritageJam:
+I am not entirely sure when I learned this, but sometime since moving to Ottawa, I learned that the Mayfair Theatre was the oldest movie theatre in Ottawa still in operation. I saw my first movie there in May 2016, and I eagerly bought myself a membership after moving practically next door to it a year after that.   
+	
+Even before I fully understood what Module 1 entailed, I thought a little bit about incorporating the Mayfair Theatre into my work for this semester. When I realized scanning the building itself in its entirety was not an option, I asked Professor Graham about my other options, which is when he presented the possibility of scanning the inside of the theatre. I loved the idea.  
 
-Paradata Resources and Direction
+I was extraordinarily lucky when my friend mentioned her fiancée did this kind of interior, 3D digital model creation for work, because I realized getting her help would make scanning the inside of the theatre much more possible and reasonable of a task to accomplish than it would have been for me to do with just a camera and the software suggested by Professor Graham. When I went to the Underhill Research Room during one of our classes allotted for us to work on our models, I realized just how nearly impossible it would be for me to have done this on my own without access to a scanner.   
 
-Among the documents used to critically inform heritage visualisation, paradata are details on the processes and methods behind the building and interpretation of our visual objects. The London Charter describes them as"documentation of the evaluative, analytical, deductive, interpretative and creative decisions made in the course of ... visualisation" to allow a clear understanding of how the visualisation came into being.
+Learning to use the scanner, a Leica BLK 360, was relatively easy. It consisted of setting up the tripod, setting the scanner on top of it, placing the scanner in the room, and pressing ‘New Scan’ on the iPad that connected to it. The software was very good at recognizing different scans matched the same room – we completed twelve scans and only had to manually match the last two scans on the stairs leading in and out of the auditorium itself.   
 
-Distinct from metadata (which describe the data themselves, their nature, location, and relation to other data, often employed for indexing purposes), paradata work to provide detailed contextual information about the processes of decision-making and the rationale for and derivation of the work.
+Twelve scans of the Mayfair were made to cover all of the space, but we were also limited by battery capacity – Martazia had forgotten to charge the battery the night before so we had less time that originally planned for as we had to wait for the battery to charge before making more scans. I was eager to get going and finish the scans before Dan the cleaner was finished and was ready to leave the theatre so I made the decision to start scanning again before we had reached 100% battery charge. By the end of the twelfth scan, we were back to low battery and would have had to wait for the battery to recharge again before making more scans.   
 
-In visualisation, paradata provide the space through which we communicate ambiguity and transparency, and account for our practices. In explicitly detailing the creator's process, paradata enable openness, making visible the "relationship between research sources, implicit knowledge, explicit reasoning, and visualisation-based outcomes." This offers viewers an insight into the making process, and an opportunity to think critically about how our images are constructed and create meaning about the past.
+I should have looked into Autodesk Recap before this but I had not taken the time to. The scans were initially loaded to Martazia’s computer because she had all the software required to do so for sure, and I took a copy of the scans and model after they were downloaded and indexed and assembled. I then took it home to tinker with and learn how to use Autodesk Recap further, such as figuring out how to rotate and turn the model effectively, and how to translate the .rcp file into an .obj file.  
 
-Macro Paradata: the big decisions relating to the nature of the visualisation.
+I was very lucky in that almost everything I tried to do along the way with this 3D model has been successful. The only exception was using the Cleanup app in Recap, which I suspect failed due to me using the setting incorrectly rather than a failure on the part of the software. When we were scanning the theatre I was concerned about the lack of lighting in the theatre as the scans looked very dark on the iPad but I was assured they would look better once transferred onto a computer, which they did.   
 
-    Why has the resource being created and for what audience? _(SG says: interpret this as asking you to tie your work into the big themes, issues, from this course)_
+The technology I chose to use is sustainable in the sense that Leica will likely continue to make scanners for architecture scanning purposes in the future, but it is more difficult to access due to the fact the software required to manipulate scans with sit behind a paywall normally. I also did not find the navigation through my 3D model intuitive and it took me a day or two to remember to use the right and middle click buttons to spin and move the model. When my trial of Recap ends, I will have to either try and register for another student trial, if I am still a student at the time, or pay to continue to look at the model, if that is what I want. While using this technology made creating the scans and the subsequent model much easier, in the long run it is likely less sustainable. It is also a very large file that the web app, where the mesh file was created, seems to have difficulty loading and navigating through.  
 
-    How will the resource be put to use? Is it sustainable and accessible? _(SG says: interpret this to reflect on the technologies you've used)_
+I also thought about what I had created, after we discussed in class that I was creating both an object, the model, but also a void, the space within the theatre. It was especially compelling because we had just been talking about the corpse voids at Pompeii and the other towns caught in the pyroclastic flow of Mount Vesuvius. While the void I have created does not represent an absence of something that was once there, I think it represents the space and helps convey the depth and size of the space I have scanned.   
 
-    Why have you chosen to use the approach/methods applied? _(SG says intrpret this to reflect on your actual process - what worked, what didn't, given the kinds of guidance or advice you've been able to find?)_
+One of the things I also thought about is the quote “The minute you make the executive part of the work too easy, the less thought there is in the result” (Morris, quoted in Nowviskie 2013). I definitely do think that because my process of creating the scans and the model was made significantly easier by the model than the process many of my classmates went through, I have put less thought into what exactly this model is, what it means, and the significance of what I have created, largely because I do not feel a significant connection with the end product. It does not feel like I actually created something even though I have created something significant, because all it took to create the scans was to move the scanner and press ‘New Scan’ on the iPad.  
 
-Micro Paradata: the small-scale decision-making processes underlying the construction of the visualisation.
 
-    What are the basic steps you followed in putting together the resource?
-
-    What supporting evidence did you rely upon?
-
-    How have you acknowledged uncertainty in the resource? Where might alternative interpretations have been made or where are such interpretations otherwise available for viewing audiences to refer to?
-
-References
-
-McCurdy, L. (2010). Visualising Architecture: The Experience of Creating Virtual Reconstructions. Unpublished Master's thesis, University of York, UK.
